@@ -1,0 +1,15 @@
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\bin\Debug\Approximator.exe.config
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\bin\Debug\Approximator.exe
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\bin\Debug\Approximator.pdb
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.csprojAssemblyReference.cache
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\MainWindow.g.cs
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\App.g.cs
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator_MarkupCompile.cache
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator_MarkupCompile.lref
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\MainWindow.baml
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.g.resources
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.Properties.Resources.resources
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.csproj.GenerateResource.cache
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.csproj.CoreCompileInputs.cache
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.exe
+D:\others\kpis\kpi_3_2\Others\TestApp1\Approximator\obj\Debug\Approximator.pdb
